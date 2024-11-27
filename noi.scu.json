@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
-  "version": "0.1.9",
-  "sync": "https://github.com/jackiechin/NoiConfigs/configs/noi.scu.json",
+  "version": "0.1.0",
+  "sync": "https://github.com/jackiechin/NoiConfigs/blob/main/noi.scu.json",
   "modes": [
       {
       "id": "noi@scu",
