@@ -53,13 +53,13 @@
     },
 	{
       "id": "noi:psv",
-      "parent": "noi@東吳大學",
+      "parent": "noi@scu",
       "text": "東吳大學統一入口",
       "url": "https://psv.scu.edu.tw"
     },
 	{
       "id": "noi:tronclass",
-      "parent": "noi@東吳大學",
+      "parent": "noi@scu",
       "text": "Tronclass",
       "url": "https://tronclass.scu.edu.tw"
     },
